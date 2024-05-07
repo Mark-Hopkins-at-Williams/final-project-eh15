@@ -1,6 +1,6 @@
 # CSCI 381 Final Project
 
-Elain He
+Elain H.
 
 Special instructions about how to use code/notebook:
 
